@@ -1,0 +1,7 @@
+body {
+    background-color: lightpink;
+    color: rgb(189, 138, 255);
+}
+#score , #timer {
+    font-size: medium;
+}
